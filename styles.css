@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: verdana;
+}
+.container {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+  
+  
+  h1 {
+    font-size: 48px;
+    color: rgb(45, 64, 9);
+    text-align:center;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  .button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
